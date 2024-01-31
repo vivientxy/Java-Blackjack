@@ -3,7 +3,7 @@ Blackjack game created using Java!
 First version of the game committed thus far -- just a basic game with 1 player vs computer dealer.
 
 Future versions (work in progress) will include:
-- multiplayers
+- multiplayers [DONE!!]
 - multiplier effect for:
   - "Ace Ace" hand
   - 5 cards hand with value <= 21
